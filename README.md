@@ -27,7 +27,7 @@ To add `UIImageToCVPixelBuffer` to your project:
 Once added to your project, import the library in your Swift file:
 
 ```swift
-import CVPixelBuffer-Converter
+import cvpixelbuffer-converter
      if let pixelBuffer = convertImageToPixelBuffer(image: yourImage ?? backupImage, imageWidht: width, imageHeight: height) {
         //your code
 }
