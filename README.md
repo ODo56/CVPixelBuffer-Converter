@@ -1,4 +1,4 @@
-# CVPixelBuffer-Converter
+# ConvertTOCVPixelBuffer
 
 A Swift library that provides an easy-to-use function to convert **UIImage** objects into **CVPixelBuffer**. This is useful for image processing tasks, such as feeding images into Core ML models.
 
