@@ -18,7 +18,7 @@ To add `UIImageToCVPixelBuffer` to your project:
 
 1. In Xcode, go to **File > Add Packages**.
 2. Paste the following repository URL into the search bar:  
-   `https://github.com/YourUsername/UIImageToCVPixelBuffer.git`
+   `https://github.com/ODo56/UIImageToCVPixelBuffer.git`
 3. Select the package and click **Add Package**.
 
 ## Usage
