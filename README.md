@@ -5,11 +5,11 @@ A Swift library that provides an easy-to-use function to convert **UIImage** obj
 ## Features
 - Converts **UIImage** to **CVPixelBuffer**.
 - Simple and straightforward API.
-- Optimized for iOS 15.0 and later.
+- For iOS 15.0 and later.
 
 ## Requirements
 - **iOS**: 15.0 or later
-- **Swift**: 5.0 or later
+- **Swift**: 6.0 or later
 
 ## Installation
 
